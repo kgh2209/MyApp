@@ -1,2 +1,3 @@
 /*  새로 추가한 app.js*/
-document.getElementById("myid");
+var id = document.getElementById("myid");
+console.log(id);
